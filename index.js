@@ -66,5 +66,3 @@ app.get('/tweets', (req, res) => {
 app.listen(5000, ()=>{
     console.log(chalk.bold.yellow("server on"));
 });
-
-finalmentedasasd
